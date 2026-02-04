@@ -1,0 +1,13 @@
+/venv/
+/venv311/
+venv*/
+.venv*/
+**/__pycache__/
+**/.pytest_cache/
+/.ipynb_checkpoints/
+**/output/
+**/.DS_Store
+*.pyc
+.env
+dist
+/generated/prisma
